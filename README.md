@@ -7,3 +7,4 @@ Setup Golang in one go
 ## Limitation
 - currently only for macos
 - shell config support: zsh
+- will install latest golang version
